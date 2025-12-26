@@ -5,8 +5,8 @@ A collection of fundamental Machine Learning algorithms implemented from the gro
 ## 📚 Theory vs. Implementation
 
 This project is part of a dual-learning approach:
--   **Theoretical Derivation**: Detailed mathematical derivations and "hand-written" notes are documented on [my blog](https://pengchzn.tech).
--   **Code Implementation**: This repository contains the raw Python code, built using only basic matrix operation libraries (NumPy) to maximize understanding of the underlying mechanics.
+-   **Theoretical Derivation**: Detailed mathematical derivations and notes are documented on [my blog](https://pengchzn.tech).
+-   **Code Implementation**: This repository contains the raw Python code, built using only basic matrix operation libraries to maximize understanding of the underlying mechanics.
 
 ## 🛠️ Tech Stack
 
